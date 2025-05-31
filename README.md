@@ -6,7 +6,7 @@ A simple and efficient password generator built with HTML, CSS, and JavaScript. 
 
 ## 🚀 Features  
 - 🎯 **Customizable password length** : Choose how long your password will be.  
-- 🔣 **Multiple character options** : Include uppercase, lowercase, numbers, and symbols.  
+- 🔣 **Multiple character options** : Include uppercase, lowercase, numbers, and symbols.
+- 📱 **Responsive design** : Works smoothly on all devices and screen sizes.    
 - 🔄 **Instant password generation** : Generate new passwords with one click.  
-- 📱 **Responsive design** : Works smoothly on all devices and screen sizes.  
 - 🌐 **Pure HTML, CSS, and JavaScript** : Lightweight, fast, and easy to customize.
